@@ -8,7 +8,9 @@ que esta enfocando con la cámara.
 Clonate la rama:
 
 > git clone https://github.com/anarkopin/detect-emotions.git
+
 > Instala las dependencias: npm i
+
 > npx expo start 
 
 
